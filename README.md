@@ -13,6 +13,7 @@ The backend is developed in IntelliJ IDE in Java. “Spring Boot” is used for 
 * Spring Web, 
 * PostgreSQL Driver and 
 * Spring Security. 
+
 After adding these to the project, I generated the project and opened it with IntelliJ IDE. These is only one additional thing to be added to the dependences and that is “mapstruct”. The dependency code of mapstruct can be found in the “pom.xml”.
 
 The database is using PostgreSQL. Spring's "PostgreSQL Driver" is used to develop the database from the backend. Click [here](https://www.postgresql.org/) to learn more about PostgreSQL.
